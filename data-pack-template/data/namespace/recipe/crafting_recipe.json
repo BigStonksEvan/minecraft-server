@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        
+            "minecraft:firework_rocket"
+        ,
+        
+             "minecraft:wither_skeleton_skull"
+        ,
+        
+             "minecraft:trident"
+        ,
+        
+             "minecraft:wind_charge"
+        ,
+        
+             "minecraft:shulker_box"
+        ,
+        
+             "minecraft:end_crystal"
+        ,
+        
+             "minecraft:totem_of_undying"
+        ,
+        
+             "minecraft:calibrated_sculk_sensor"
+        ,
+        
+             "minecraft:crying_obsidian"
+        
+    ],
+    "result": {
+        "id": "minecraft:command_block",
+        "count": 1
+    }
+}
